@@ -1,6 +1,6 @@
 {
   "name": "@kumakbayevd/codeceptjs-resemblehelper-fork",
-  "version": "1.9.6-2",
+  "version": "1.9.6-3",
   "description": "Resemble Js helper for CodeceptJS, with Support for Playwright, Webdriver, TestCafe, Puppeteer & Appium",
   "repository": {
     "type": "git",
@@ -10,20 +10,20 @@
     "access": "public"
   },
   "dependencies": {
-    "assert": "^1.5.0",
-    "aws-sdk": "2.1027.0",
-    "canvas": "^2.8.0",
-    "image-size": "1.0.0",
+    "assert": "^2.0.0",
+    "aws-sdk": "^2.1235.0",
+    "canvas": "^2.10.1",
+    "image-size": "^1.0.2",
     "mkdirp": "^1.0.4",
-    "mz": "2.7.0",
+    "mz": "^2.7.0",
     "path": "^0.12.7",
-    "resemblejs": "4.0.0"
+    "resemblejs": "^4.1.0"
   },
   "devDependencies": {
-    "allure-commandline": "^2.13.0",
-    "codeceptjs": "^2.3.5",
-    "mocha": "^6.2.2",
-    "mochawesome": "^4.1.0"
+    "allure-commandline": "^2.18.1",
+    "codeceptjs": "^3.3.6",
+    "mocha": "^10.1.0",
+    "mochawesome": "^7.1.3"
   },
   "keywords": [
     "codeceptJS",
