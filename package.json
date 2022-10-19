@@ -1,10 +1,13 @@
 {
-  "name": "@kumakabyevd/codeceptjs-resemblehelper-fork",
-  "version": "1.9.6-1",
+  "name": "@kumakbayevd/codeceptjs-resemblehelper-fork",
+  "version": "1.9.6-2",
   "description": "Resemble Js helper for CodeceptJS, with Support for Playwright, Webdriver, TestCafe, Puppeteer & Appium",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kumakbayevd/codeceptjs-resemblehelper-fork.git"
+    "url": "git+ssh://git@github.com/kumakbayevd/codeceptjs-resemblehelper-fork.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "assert": "^1.5.0",
